@@ -1,0 +1,23 @@
+{
+  "Online proctoring and exam management platform": "Online proctoring and exam management platform",
+  "API Key": "API Key",
+  "Base URL": "Base URL",
+  "Your SmarterProctoring API key.": "Your SmarterProctoring API key.",
+  "The base URL of your SmarterProctoring instance (including protocol).": "The base URL of your SmarterProctoring instance (including protocol).",
+  "Custom API Call": "Custom API Call",
+  "Make a custom API call to SmarterProctoring": "Make a custom API call to SmarterProctoring",
+  "Method": "Method",
+  "Endpoint": "Endpoint",
+  "Headers": "Headers",
+  "Query Parameters": "Query Parameters",
+  "Body": "Body",
+  "The API endpoint path (e.g., /api/v1/exams)": "The API endpoint path (e.g., /api/v1/exams)",
+  "Additional headers to include in the request": "Additional headers to include in the request",
+  "Query parameters to include in the request": "Query parameters to include in the request",
+  "The request body (for POST, PUT, PATCH requests)": "The request body (for POST, PUT, PATCH requests)",
+  "GET": "GET",
+  "POST": "POST",
+  "PUT": "PUT",
+  "DELETE": "DELETE",
+  "PATCH": "PATCH"
+}
